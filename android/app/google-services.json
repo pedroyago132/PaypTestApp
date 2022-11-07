@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614045802120",
+    "project_id": "pybeet",
+    "storage_bucket": "pybeet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614045802120:android:89bfb84d350a995a31093d",
+        "android_client_info": {
+          "package_name": "com.payp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614045802120-ieeom9mp9obhmio2h3lgv74h5jto1kv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1ol5AlfqIag0Fb86gTEy0kpO_Pa0P92o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614045802120-ieeom9mp9obhmio2h3lgv74h5jto1kv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
